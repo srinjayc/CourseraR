@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586687937060.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4233697952",
+    "id" : "A4CA6A33",
+    "lastKnownWriteTime" : 1587634828,
+    "last_content_update" : 1587634828091,
+    "path" : "C:/Users/Srinjay/Desktop/CourseraR/Scripts/courserar.R",
+    "project_path" : "Scripts/courserar.R",
+    "properties" : {
+        "cursorPosition" : "1,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
